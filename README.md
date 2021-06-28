@@ -6,7 +6,7 @@ correctly against the supplied test data.
 
 We highly recommend using a unit testing framework. Even if you have not used it before, it is simple to learn and incredibly useful. The code you write should be of production quality, and most importantly, it should be code you are proud of.
 
-## Getting starting
+## Getting started
 
 - Clone this repo
 

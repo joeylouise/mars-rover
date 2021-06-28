@@ -60,6 +60,8 @@ When `move()` is called, we pass `instructions` as an argument. This is a string
 
 If `move()` is called and results in the rover moving off the grid, it will throw with the message `Rover is off the grid!`.
 
+If the length of the instructions string is 0, it will throw with the message `No instructions provided`.
+
 To satisfy the examples in the brief, we can do the following (these scenarios are covered in the tests):
 
 Example 1
